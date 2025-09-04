@@ -1,0 +1,66 @@
+city,temperature,humidity,wind_speed,weather,datetime
+Delhi,31.02,64,3.71,overcast clouds,2025-08-11 12:48:35
+Delhi,28.51,69,4.55,overcast clouds,2025-08-11 14:21:56
+London,28.63,36,3.02,few clouds,2025-08-11 12:43:56
+London,29.02,37,4.05,few clouds,2025-08-11 14:24:39
+Mumbai,28.11,76,4.37,overcast clouds,2025-08-11 12:45:14
+Mumbai,27.7,77,4.01,overcast clouds,2025-08-11 14:30:06
+New York,21.86,64,2.89,few clouds,2025-08-11 12:46:40
+New York,27.83,47,2.46,few clouds,2025-08-11 14:33:53
+Tokyo,28.64,72,9.93,overcast clouds,2025-08-11 12:48:27
+Tokyo,28.65,71,9.67,overcast clouds,2025-08-11 14:25:19
+Delhi,27.48,69,2.72,overcast clouds,2025-08-11 22:38:56
+London,20.18,63,3.69,overcast clouds,2025-08-11 22:39:53
+Mumbai,26.97,78,4.66,overcast clouds,2025-08-11 22:38:51
+New York,29.17,50,5.51,scattered clouds,2025-08-11 22:43:19
+Tokyo,29.16,63,9.4,overcast clouds,2025-08-11 22:32:27
+Delhi,34.0,55,2.95,overcast clouds,2025-08-13 07:13:31
+London,19.26,74,1.35,overcast clouds,2025-08-13 07:07:24
+Mumbai,28.21,74,3.95,overcast clouds,2025-08-13 07:11:49
+New York,22.56,86,2.55,clear sky,2025-08-13 07:15:14
+Tokyo,30.13,55,4.87,overcast clouds,2025-08-13 07:09:41
+Delhi,32.9,62,1.4,overcast clouds,2025-08-13 14:17:52
+London,25.45,66,4.04,overcast clouds,2025-08-13 14:17:02
+Mumbai,27.34,80,4.98,overcast clouds,2025-08-13 14:17:35
+New York,28.22,76,2.81,few clouds,2025-08-13 14:22:01
+Tokyo,26.49,71,3.61,scattered clouds,2025-08-13 14:21:08
+Delhi,29.83,75,2.03,overcast clouds,2025-08-13 22:16:50
+London,19.71,82,3.45,overcast clouds,2025-08-13 22:20:30
+Mumbai,26.86,81,4.77,overcast clouds,2025-08-13 22:15:02
+New York,26.05,84,1.91,moderate rain,2025-08-13 22:21:09
+Tokyo,25.91,68,2.39,overcast clouds,2025-08-13 22:22:13
+Delhi,25.96,78,2.38,overcast clouds,2025-08-14 08:39:24
+London,20.59,74,2.97,few clouds,2025-08-14 08:43:45
+Mumbai,27.2,80,5.62,overcast clouds,2025-08-14 08:32:41
+New York,22.27,91,1.9,overcast clouds,2025-08-14 08:37:19
+Tokyo,29.45,60,6.19,overcast clouds,2025-08-14 08:46:04
+Delhi,29.44,66,3.82,overcast clouds,2025-08-17 12:50:51
+London,22.98,42,3.42,clear sky,2025-08-17 12:47:45
+Mumbai,26.08,89,8.49,overcast clouds,2025-08-17 12:43:20
+New York,24.03,82,3.88,overcast clouds,2025-08-17 12:52:41
+Tokyo,30.51,65,3.0,overcast clouds,2025-08-17 12:50:18
+Delhi,34.12,59,4.71,scattered clouds,2025-08-18 08:11:26
+London,17.77,80,4.13,overcast clouds,2025-08-18 08:10:07
+Mumbai,26.74,88,7.99,light rain,2025-08-18 08:18:01
+New York,20.53,78,7.55,overcast clouds,2025-08-18 08:15:52
+Tokyo,31.95,55,7.05,heavy intensity rain,2025-08-18 08:09:48
+Delhi,29.1,76,3.23,scattered clouds,2025-08-18 20:35:30
+London,18.59,67,3.91,scattered clouds,2025-08-18 20:31:44
+Mumbai,26.17,92,12.08,overcast clouds,2025-08-18 20:38:44
+New York,24.3,53,3.97,clear sky,2025-08-18 20:35:36
+Tokyo,27.42,66,1.57,broken clouds,2025-08-18 20:39:43
+Delhi,33.17,66,4.36,light rain,2025-08-19 10:43:45
+London,20.97,64,4.13,overcast clouds,2025-08-19 10:41:19
+Mumbai,26.55,90,13.37,light rain,2025-08-19 10:43:38
+New York,17.94,68,4.29,scattered clouds,2025-08-19 10:48:53
+Tokyo,30.36,64,4.46,clear sky,2025-08-19 10:45:34
+Delhi,32.1,68,4.04,clear sky,2025-08-20 05:14:37
+London,15.14,83,4.28,overcast clouds,2025-08-20 05:18:45
+Mumbai,26.81,86,12.12,moderate rain,2025-08-20 05:24:36
+New York,18.21,75,4.28,broken clouds,2025-08-20 05:12:33
+Tokyo,32.86,55,6.0,overcast clouds,2025-08-20 05:16:25
+Delhi,35.57,55,4.15,broken clouds,2025-08-21 08:25:40
+London,16.05,75,4.45,overcast clouds,2025-08-21 08:19:20
+Mumbai,27.27,85,9.46,broken clouds,2025-08-21 08:24:59
+New York,16.46,94,7.14,overcast clouds,2025-08-21 08:20:04
+Tokyo,34.03,46,5.95,overcast clouds,2025-08-21 08:28:17
